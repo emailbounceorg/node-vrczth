@@ -8010,3 +8010,1451 @@
   2024-11-01 00:11:29 App\Jobs\EmailCleaner .......................... RUNNING
   2024-11-01 00:11:30 App\Jobs\EmailCleaner ......................... 11s DONE
   2024-11-01 00:11:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:11:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:11:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:09 App\Jobs\EmailCleaner ......................... 12s DONE
+  2024-11-01 00:12:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:12:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:12:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:09 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:13:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:13:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:09 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:14:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:14:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:17 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:15:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:15:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:15:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:04 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:16:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:09 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:36 App\Jobs\EmailCleaner ......................... 14s DONE
+  2024-11-01 00:16:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:43 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:16:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:16:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:16:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:17:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:17:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:03 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:18:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:09 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:18:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:18:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:19:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:19:59 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:19:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:20:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:20:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:00 App\Jobs\EmailCleaner ......................... 12s DONE
+  2024-11-01 00:21:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:09 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:17 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:21:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:21:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:21:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:16 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:22:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:22:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:22:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:23:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:23:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:09 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:27 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:36 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:36 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:58 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:24:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:24:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:24:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:02 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:02 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:09 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:09 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:16 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:16 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:28 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:28 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:32 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:32 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:39 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:39 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:43 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:43 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:50 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:50 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:59 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:25:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:25:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:25:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:01 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:01 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:13 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:13 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:24 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:24 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:29 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:29 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:35 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:26:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:35 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:35 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:40 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:40 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:47 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:47 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:51 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:51 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:52 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:52 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:56 App\Jobs\EmailCleaner  2024-11-01 00:26:56 App\Jobs\EmailCleaner ......................... 11s .......................... DONE
+ RUNNING
+  2024-11-01 00:26:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:58 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:58 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:26:59 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:26:59 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:03 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:03 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:10 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:10 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:14 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:14 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:19 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:19 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:21 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:21 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:25 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:25 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:26 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:26 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:30 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:30 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:31 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:31 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:33 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:33 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:34 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:34 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:37 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:37 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:38 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:38 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:41 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:41 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:42 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:42 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:44 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:44 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:45 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:45 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:46 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:46 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:48 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:48 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:49 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:49 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:53 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:53 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:54 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:54 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:55 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:55 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:56 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:56 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:27:57 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:27:57 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:00 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:00 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:04 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:04 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:05 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:05 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:06 App\Jobs\EmailCleaner .......................... 1s DONE
+  2024-11-01 00:28:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:06 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:06 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:07 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:07 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:08 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:08 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:11 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:11 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:12 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:12 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:15 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:15 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:17 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:17 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:18 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:18 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:20 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:20 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:22 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:22 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:23 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:23 App\Jobs\EmailCleaner .......................... RUNNING
+  2024-11-01 00:28:27 App\Jobs\EmailCleaner ......................... 11s DONE
+  2024-11-01 00:28:27 App\Jobs\EmailCleaner .......................... RUNNING
